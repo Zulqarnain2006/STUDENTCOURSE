@@ -7,6 +7,7 @@ namespace STUDENTCOURSE.Data
     {
         public SchoolContext(DbContextOptions<SchoolContext> options):base(options)
         {
+            //write data here please 
         }   
         public DbSet<Student> Students { get; set; }    
         public DbSet<Course> Courses { get; set; }
