@@ -1,5 +1,6 @@
 ﻿
 namespace STUDENTCOURSE.Models
+//this is a model
    
 {
     public class Student
